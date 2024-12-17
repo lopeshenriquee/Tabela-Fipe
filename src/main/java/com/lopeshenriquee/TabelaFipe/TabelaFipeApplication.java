@@ -1,4 +1,4 @@
-package com.lopeshenriquee.TabelaFipe.service;
+package com.lopeshenriquee.TabelaFipe;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
